@@ -1,1 +1,3 @@
 # ALGORITHMS
+
+## Min Max
